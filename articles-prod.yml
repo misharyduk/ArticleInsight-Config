@@ -1,0 +1,5 @@
+info:
+  articles:
+    microservice-name: articles-ms
+    version: "v1.0.0"
+    profile: "prod"
