@@ -1,0 +1,5 @@
+info:
+  review:
+    microservice-name: review-ms
+    version: "v1.0.0"
+    profile: "dev"
