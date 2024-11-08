@@ -1,5 +1,5 @@
 info:
   articles:
     microservice-name: articles-ms
-    version: "v1.0.0"
+    version: "v1.0.1"
     profile: "default"
